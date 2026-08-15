@@ -1,0 +1,6 @@
+{
+  "name": "ТОО «COMPETENCE CENTER» — Юридическая компания в Алматы",
+  "description": "Официальный сайт ТОО «COMPETENCE CENTER» в Алматы. Профессиональные юридические услуги для малого и среднего бизнеса и частных лиц: сопровождение договоров, судебная защита, корпоративное право, аудит документов. Прямая запись на консультацию через Telegram-бот.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

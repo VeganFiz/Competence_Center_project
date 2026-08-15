@@ -1,0 +1,24 @@
+**/venv/
+**/__pycache__/
+*.py[cod]
+.env
+.idea/
+.vscode/
+
+# Python
+**/venv/
+**/__pycache__/
+*.py[cod]
+
+# Secrets
+**/.env
+!.env.example
+
+# Local databases
+**/*.db
+**/*.sqlite
+**/*.sqlite3
+
+# Frontend
+**/node_modules/
+**/dist/
